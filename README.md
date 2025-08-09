@@ -2,7 +2,7 @@
 
 🚀 **Desarrollador Front-End** | 🌍 [Cienfuegos - Cuba] | ✉️ [henrycastell005@gmail.com]
 
-Bienvenido/a a mi perfil de GitHub. Soy un joven estudianre apasionado por el desarrollo web, especificamente el lado del front-end. Me encanta recrear interfaces limpias, modulares y visualmente impactantes, o crearlas desde cero. Me especializo en **React**, **Tailwind CSS**, **TypeScript** y **Ant Design** u otras bibliotecas para llevar mis proyectos al siguiente nivel. Me encanta aprender, colaborar y crear soluciones innovadoras. 
+Bienvenido/a a mi perfil de GitHub. Soy un joven estudiante apasionado por el desarrollo web, especificamente el lado del front-end. Me encanta recrear interfaces limpias, modulares y visualmente impactantes, o crearlas desde cero. Me especializo en **React**, **Tailwind CSS**, **TypeScript** y **Ant Design** u otras bibliotecas para llevar mis proyectos al siguiente nivel. Me encanta aprender, colaborar y crear soluciones innovadoras. 
 
 
 ## 🛠 Skills
